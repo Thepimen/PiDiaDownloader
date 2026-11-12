@@ -118,6 +118,20 @@ El ejecutable resultante se guardará en la carpeta `dist/πDiaDownloader/`.
 
 ---
 
+## ⚡ Custom Development, Commercial Support & Deployment
+
+Need a custom version of **πDiaDownloader**, a tailored media processing pipeline (`FFmpeg` / `yt-dlp`), custom Python automation scripts, or a standalone `.EXE` desktop application (`CustomTkinter` / `PyInstaller`) built for your business?
+
+I offer fast-turnaround software engineering services and custom proposals on Fiverr:
+
+[![Hire on Fiverr - Python Automation & Desktop Apps](https://img.shields.io/badge/Fiverr-Custom_Python_Automation_%26_.EXE_Apps_(From_$30)-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thepimen/build-custom-python-automation-scripts-and-standalone-desktop-apps)
+[![Fiverr Profile - All Engineering Services](https://img.shields.io/badge/Fiverr_Profile-Request_a_Custom_Offer-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thepimen)
+
+* **24-Hour Express Delivery available** for urgent scripts, bug fixes, and desktop tools.
+* **Direct Engineering Portfolio & Services:** [luislazaro-dev.netlify.app/solutions](https://luislazaro-dev.netlify.app/solutions)
+
+---
+
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia **MIT**. Consulta el archivo `LICENSE` para más información.
